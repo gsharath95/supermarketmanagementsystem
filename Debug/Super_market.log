@@ -1,0 +1,7 @@
+﻿  Super_market.cpp
+C:\Users\sgarlapa\source\repos\Super_market\Super_market\Super_market.cpp(24,65): warning C4305:  'argument': truncation from 'double' to 'float'
+  Warehouse.cpp
+  Generating Code...
+C:\Users\sgarlapa\source\repos\Super_market\Super_market\Super_market.cpp(27,64): warning C4305:  'argument': truncation from 'double' to 'float'
+  LINK : C:\Users\sgarlapa\source\repos\Exercie_inputValidation\Debug\Super_market.exe not found or not built by the last incremental link; performing full link
+  Super_market.vcxproj -> C:\Users\sgarlapa\source\repos\Exercie_inputValidation\Debug\Super_market.exe
